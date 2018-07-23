@@ -1,4 +1,4 @@
-## Welcome to my flask repository.
+### Welcome to my flask repository.
 
 This repository contains 4 files:
  - [README.md](/README.md)
@@ -6,5 +6,5 @@ This repository contains 4 files:
  - [headlines.py](/headlines.py)
  - [hello.py](/hello.py)
 
-## hello.py is used to demonstrate a "Hello World" response after the / context root is hit!
-## headlines.py is used to demonstrate a "no news is good news" response after the / context root is hit!
+# hello.py is used to demonstrate a "Hello World" response after the / context root is hit!
+# headlines.py is used to demonstrate a "no news is good news" response after the / context root is hit!

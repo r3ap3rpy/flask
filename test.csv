@@ -1,0 +1,4 @@
+id,server,type
+0,webserver,windows
+1,appserver,linux
+2,dnsserver,linux
